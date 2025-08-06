@@ -1,10 +1,8 @@
-import Header from './components/Header/Header'
-import Home from './components/Home/Home'
+import Home from './components/RestaurantHome/Home'
 
 const App = () => {
   return (
     <div>
-      <Header />  
       <Home />
     </div>
   )
